@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Thomas H. Schaber', // Title for your website.
-    tagline: 'Always learning, dedicated java developer, software development',
+    tagline: 'Always learning, dedicated java developer, object oriented software developer',
     profilePhoto: 'img/profile.png',
     url: 'https://Thomas-Schaber.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
