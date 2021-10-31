@@ -3,10 +3,8 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
-
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+Estatement Checker
+This is a project that allows users to copy their Estatements from Coastal Bank and search for key words to sum up purchases from those key words.
 
 You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
 or even embed images with the following Markdown:
