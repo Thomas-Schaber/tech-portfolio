@@ -11,4 +11,4 @@ a screenshot or GIF to show it.
 You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
 or even embed images with the following Markdown:
 
-![Add alternate text for image](./assets/rosemary.png)
+![This is a project that will check estatements from Coastal Federal credit union and sum up you spending](./assets/EstatementCheckerScreenShot.PNG)
