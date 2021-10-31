@@ -67,7 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'https://www.linkedin.com/in/thomas-schaber/',
+        linkedin: 'thomas-schaber',
         twitter: 'TommySchaber',
         github: 'Thomas-Schaber',
     },
